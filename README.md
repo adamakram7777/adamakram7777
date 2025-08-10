@@ -18,7 +18,7 @@
 <hr></hr>
 
 ## 👨‍💻 About Me
-I'm **Adam Akram**, a professional front-end developer skilled in HTML, CSS, JavaScript, React, and Python.
+I'm **Adam Akram**, a professional front-end developer and teaching assistant passionate about web development education.
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -27,15 +27,12 @@ I'm **Adam Akram**, a professional front-end developer skilled in HTML, CSS, Jav
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```javascript
 const adam = {
   pronouns: "he" | "him",
-  code: ["HTML", "CSS", "JavaScript", "React", "Python"],
-  tools: ["VS Code", "Git", "Figma"],
-  teaching: "Teaching Assistant at Misr University for Science and Technology",
-  funFact: "I love making web development accessible for beginners"
+  role: "Front-end Developer & Teaching Assistant",
+  skills: ["HTML", "CSS", "JavaScript", "React", "Python"],
+  currentFocus: "Creating accessible web development tutorials",
+  funFact: "Believes in making coding education approachable for everyone"
 }
